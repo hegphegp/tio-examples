@@ -1,0 +1,5 @@
+rootProject.name = 'tio-examples'
+include '000-im-common'
+include '000-im-client'
+include '000-im-server'
+
